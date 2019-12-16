@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><module type="JAVA_MODULE" version="4">
+    <component inherit-compiler-output="true" name="NewModuleRootManager">
+        <exclude-output/>
+        <content url="file://$MODULE_DIR$">
+            <sourceFolder isTestSource="false" url="file://$MODULE_DIR$/src"/>
+        </content>
+        <orderEntry type="inheritedJdk"/>
+        <orderEntry forTests="false" type="sourceFolder"/>
+        <orderEntry type="module-library">
+            <library>
+                <CLASSES>
+                    <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/17.0.0/annotations-17.0.0.jar!/"/>
+                </CLASSES>
+                <JAVADOC/>
+                <SOURCES/>
+            </library>
+        </orderEntry>
+    </component>
+<Bet coefficient="0.0" horseId="0" id="0" isWin="true" money="0.0" participantId="1" type="WIN" winMoney="0.0"/><Bet coefficient="0.0" horseId="0" id="0" isWin="true" money="0.0" participantId="1" type="WIN" winMoney="0.0"/><Bet coefficient="0.0" horseId="0" id="0" isWin="true" money="0.0" participantId="1" type="WIN" winMoney="0.0"/><Bet coefficient="0.0" horseId="0" id="1" isWin="true" money="50.0" participantId="1" type="WIN" winMoney="0.0"/><Bet coefficient="0.0" horseId="1" id="2" isWin="false" money="100.0" participantId="1" type="WIN" winMoney="0.0"/><Bet coefficient="0.0" horseId="2" id="3" isWin="false" money="100.0" participantId="1" type="WIN" winMoney="0.0"/><Bet coefficient="0.0" horseId="0" id="0" isWin="true" money="500.0" participantId="1" type="WIN" winMoney="0.0"/><Bet coefficient="0.0" horseId="0" id="1" isWin="true" money="50.0" participantId="1" type="WIN" winMoney="0.0"/><Bet coefficient="0.0" horseId="2" id="2" isWin="false" money="500.0" participantId="1" type="WIN" winMoney="0.0"/></module>
